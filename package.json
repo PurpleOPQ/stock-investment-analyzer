@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "stock-investment-analyzer",
+  "version": "1.0.0",
+  "description": "A stock investment analysis tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "docx": "^9.6.1",
+    "node-fetch": "^3.0.0",
+    "pdfkit": "^0.18.0",
+    "ta.js": "^1.16.3",
+    "yahoo-finance2": "^3.13.2"
+  }
+}
